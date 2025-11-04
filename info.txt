@@ -1,9 +1,7 @@
+<<<<<<< HEAD
 Hello
-This is liteesh 
+This is Liteesh naidu 
 i am an Devops Engineer 
-
-im working for dev2 
-
 working at qatasys private limited 
 i am form srikalahasti 
 having 4.3 years of experience in it industry 
