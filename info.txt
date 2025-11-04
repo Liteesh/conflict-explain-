@@ -1,7 +1,5 @@
 Hello 
-This is Liteesh 
+This is Liteesh naidu 
 i am an Devops Engineer 
-
 im working for dev2 
-
 working at qatasys private limited 
